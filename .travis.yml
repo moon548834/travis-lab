@@ -4,4 +4,4 @@ python:
     - "3.8"
 
 script:
-    - python hello.py
+    - python3 hello.py
